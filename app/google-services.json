@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405219652529",
+    "project_id": "classaz",
+    "storage_bucket": "classaz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405219652529:android:f6e89309737b348ec04390",
+        "android_client_info": {
+          "package_name": "com.guy.class24a_atoz_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ma-jIu_fol4T7DXKy9TDJEKuKu6tYlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
